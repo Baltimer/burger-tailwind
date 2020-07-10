@@ -209,21 +209,21 @@
               <img
                 alt="gallery"
                 class="w-full object-cover h-full object-center block"
-                src="https://dummyimage.com/500x300"
+                src="@/assets/img/plato1.jpg"
               />
             </div>
             <div class="md:p-2 p-1 w-1/2">
               <img
                 alt="gallery"
                 class="w-full object-cover h-full object-center block"
-                src="https://dummyimage.com/501x301"
+                src="@/assets/img/plato3.jpg"
               />
             </div>
             <div class="md:p-2 p-1 w-full">
               <img
                 alt="gallery"
                 class="w-full h-full object-cover object-center block"
-                src="https://dummyimage.com/600x360"
+                src="@/assets/img/dessert2.jpg"
               />
             </div>
           </div>
@@ -232,21 +232,21 @@
               <img
                 alt="gallery"
                 class="w-full h-full object-cover object-center block"
-                src="https://dummyimage.com/601x361"
+                src="@/assets/img/sitio1.jpg"
               />
             </div>
             <div class="md:p-2 p-1 w-1/2">
               <img
                 alt="gallery"
                 class="w-full object-cover h-full object-center block"
-                src="https://dummyimage.com/502x302"
+                src="@/assets/img/dessert1.jpg"
               />
             </div>
             <div class="md:p-2 p-1 w-1/2">
               <img
                 alt="gallery"
                 class="w-full object-cover h-full object-center block"
-                src="https://dummyimage.com/503x303"
+                src="@/assets/img/plato3.jpg"
               />
             </div>
           </div>
