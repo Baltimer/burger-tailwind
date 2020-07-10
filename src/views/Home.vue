@@ -129,9 +129,11 @@
           </div>
           <div class="xl:w-1/4 lg:w-1/2 md:w-full px-8 py-6 border-l-2 border-gray-200">
             <h2 class="text-lg sm:text-xl text-gray-900 font-medium title-font mb-2">Entrantes</h2>
-            <p
-              class="leading-relaxed text-base mb-4"
-            >Disfruta de unos <span class="font-semibold">nachos corner</span> o unos <span class="font-semibold">fingers de pollo</span> mientras esperas tu deliciosa hamburguesa.</p>
+            <p class="leading-relaxed text-base mb-4">
+              Disfruta de unos
+              <span class="font-semibold">nachos corner</span> o unos
+              <span class="font-semibold">fingers de pollo</span> mientras esperas tu deliciosa hamburguesa.
+            </p>
             <a class="text-indigo-500 items-center mt-auto flex">
               Conoce más
               <svg
@@ -248,6 +250,72 @@
               />
             </div>
           </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="text-gray-700 body-font relative">
+      <div class="container px-5 py-12 mx-auto flex sm:flex-no-wrap flex-wrap">
+        <div
+          class="lg:w-2/3 md:w-1/2 bg-gray-300 rounded-lg overflow-hidden sm:mr-10 p-10 flex items-end justify-start relative"
+        >
+          <iframe
+            class="absolute inset-0"
+            style="filter: grayscale(1) contrast(1.2) opacity(0.6);"
+            title="map"
+            marginheight="0"
+            marginwidth="0"
+            scrolling="no"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1537.507968429657!2d2.6616494301549114!3d39.58179119431163!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x129793ced07b6155%3A0x72d06fa27104b3e2!2sTCB%20The%20C%C3%B3rner%20Burger!5e0!3m2!1sen!2sus!4v1594421264189!5m2!1sen!2sus"
+            width="100%"
+            height="100%"
+            frameborder="0"
+          ></iframe>
+          <div class="bg-white relative flex flex-wrap py-6">
+            <div class="lg:w-1/2 px-6">
+              <h2 class="title-font font-medium text-gray-900 tracking-widest text-sm">DIRECCIÓN</h2>
+              <p
+                class="leading-relaxed"
+              >Jacinto Verdaguer, 33.</p>
+              <p
+                class="leading-relaxed"
+              >Palma de Mallorca, Islas Baleares, 07004</p>
+            </div>
+            <div class="lg:w-1/2 px-6 mt-4 lg:mt-0">
+              <h2 class="title-font font-medium text-gray-900 tracking-widest text-sm">EMAIL</h2>
+              <a class="text-indigo-500 leading-relaxed">info@thecornerburger.com</a>
+              <h2 class="title-font font-medium text-gray-900 tracking-widest text-sm mt-4">TELEFONO</h2>
+              <p class="leading-relaxed">666-55-44-33</p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="lg:w-1/3 md:w-1/2 bg-white flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0"
+        >
+          <h2 class="text-gray-900 text-lg mb-1 font-medium title-font">Sugerencias</h2>
+          <p
+            class="leading-relaxed mb-5 text-gray-600"
+          >Tienes una sugerencias? No dudes en ponerte en contacto con nosotros.</p>
+          <input
+            class="bg-white rounded border border-gray-400 focus:outline-none focus:border-indigo-500 text-base px-4 py-2 mb-4"
+            placeholder="Nombre"
+            type="text"
+          />
+          <input
+            class="bg-white rounded border border-gray-400 focus:outline-none focus:border-indigo-500 text-base px-4 py-2 mb-4"
+            placeholder="Teléfono"
+            type="email"
+          />
+          <textarea
+            class="bg-white rounded border border-gray-400 focus:outline-none h-32 focus:border-indigo-500 text-base px-4 py-2 mb-4 resize-none"
+            placeholder="Mensaje"
+          ></textarea>
+          <button
+            class="text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg"
+          >Enviar</button>
+          <p
+            class="text-xs text-gray-500 mt-3"
+          >Sus datos no serán almacenados ni utilizados para otros fines más que para ponernos en contacto con usted si fuese necesario.</p>
         </div>
       </div>
     </section>
