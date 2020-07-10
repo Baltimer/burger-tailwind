@@ -101,10 +101,10 @@
           >NUESTRO COMPROMISO</h2>
           <h1
             class="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900"
-          >CARNE 100% DE ORIGEN LOCAL</h1>
+          >PRODUCTO 100% DE ORIGEN LOCAL</h1>
           <p
             class="lg:w-2/3 mx-auto leading-relaxed text-base"
-          >Compramos la carne directamente a proveedores locales, sin intermediarios. Gracias a ello, podemos mantener los precios más económicos y aprovechar la mejor calidad.</p>
+          >Compramos los ingredientes directamente a proveedores locales, sin intermediarios. Gracias a ello, podemos mantener los precios más económicos y aprovechar la mejor calidad.</p>
         </div>
         <div class="flex flex-wrap">
           <div class="xl:w-1/4 lg:w-1/2 md:w-full px-8 py-6 border-l-2 border-gray-200">
@@ -150,12 +150,12 @@
             </a>
           </div>
           <div class="xl:w-1/4 lg:w-1/2 md:w-full px-8 py-6 border-l-2 border-gray-200">
-            <h2 class="text-lg sm:text-xl text-gray-900 font-medium title-font mb-2">Neptune</h2>
+            <h2 class="text-lg sm:text-xl text-gray-900 font-medium title-font mb-2">Meriendas</h2>
             <p
               class="leading-relaxed text-base mb-4"
-            >Fingerstache flexitarian street art 8-bit waistcoat. Distillery hexagon disrupt edison bulbche.</p>
+            >Disfruta de nuestros helados caseros o de nuestros <span class="font-semibold">gofres</span> y <span class="font-semibold">tortitas</span> recién hechas.</p>
             <a class="text-indigo-500 inline-flex items-center">
-              Learn More
+              Conoce más
               <svg
                 fill="none"
                 stroke="currentColor"
@@ -170,12 +170,12 @@
             </a>
           </div>
           <div class="xl:w-1/4 lg:w-1/2 md:w-full px-8 py-6 border-l-2 border-gray-200">
-            <h2 class="text-lg sm:text-xl text-gray-900 font-medium title-font mb-2">Melanchole</h2>
+            <h2 class="text-lg sm:text-xl text-gray-900 font-medium title-font mb-2">Panadería</h2>
             <p
               class="leading-relaxed text-base mb-4"
-            >Fingerstache flexitarian street art 8-bit waistcoat. Distillery hexagon disrupt edison bulbche.</p>
+            >Disfruta de los mejores panecillos de la isla, comprados día a día para que disfrutes junto a tu hamburguesa preferida.</p>
             <a class="text-indigo-500 inline-flex items-center">
-              Learn More
+              Conoce más
               <svg
                 fill="none"
                 stroke="currentColor"
